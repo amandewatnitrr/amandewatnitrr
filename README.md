@@ -33,6 +33,16 @@
 
 ##
 
+<div>
+- 👷 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee
+- 👨🏾‍💻 <samp>Embedded IoT Intern at SVA Robotics(Sep,2020 - Oct,2020)
+- 🕵🏻 <samp>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May,2020 - Aug,2020)
+- ☄️ <samp>Girlscript Ireland - Training - Game Development(August,2020)
+- ☁ <samp>30 Days of Google Cloud(Cloud Engnieering Track)
+</div>
+
+##
+
 <h4><b><samp>Skills and Languages</samp></b></h4>
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)

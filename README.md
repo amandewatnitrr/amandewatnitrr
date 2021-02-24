@@ -34,11 +34,11 @@
 ##
 
 <div>
-- 👷 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee
-- 👨🏾‍💻 <samp>Embedded IoT Intern at SVA Robotics(Sep,2020 - Oct,2020)
-- 🕵🏻 <samp>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May,2020 - Aug,2020)
-- ☄️ <samp>Girlscript Ireland - Training - Game Development(August,2020)
-- ☁ <samp>30 Days of Google Cloud(Cloud Engnieering Track)
+- 👷 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee<br>
+- 👨🏾‍💻 <samp>Embedded IoT Intern at SVA Robotics(Sep,2020 - Oct,2020)<br>
+- 🕵🏻 <samp>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May,2020 - Aug,2020)<br>
+- ☄️ <samp>Girlscript Ireland - Training - Game Development(August,2020)<br>
+- ☁ <samp>30 Days of Google Cloud(Cloud Engnieering Track)<br>
 </div>
 
 ##

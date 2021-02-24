@@ -19,7 +19,7 @@
 <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud ☁  & A Competitive Programmer </samp></h4></p>
 
 <div>
-<img align="right" src="https://github.com/himanshusharma89/himanshusharma89/blob/master/coding.gif" width="40%"/>
+<img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
 
 - 🔭 <samp>Currently pursuing B.Tech in Electrical Engrineering(2018-2022) from National Institute of Technology Raipur
 - 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%

@@ -64,12 +64,10 @@
 
 
 ##
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=amandewatnitrr&count_private=true&show_icons=true&theme=radical&&include_all_commits=true)](https://github.com/amandewatnitrr/github-readme-stats-1)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript)](https://github.com/amandewatnitrr/github-readme-stats-1)[![Linkedin Profile](<div class="LI-profile-badge"  data-version="v1" data-size="medium" data-locale="en_US" data-type="horizontal" data-theme="dark" data-vanity="aman-kumar-dewangan-akd13o1"><a class="LI-simple-link" href='https://in.linkedin.com/in/aman-kumar-dewangan-akd13o1?trk=profile-badge'>Aman Kumar Dewangan</a></div>)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=amandewatnitrr&count_private=true&show_icons=true&theme=radical&&include_all_commits=true)](https://github.com/amandewatnitrr/github-readme-stats-1)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript)](https://github.com/amandewatnitrr/github-readme-stats-1)
 
 ##
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/amandewatnitrr/count.svg" />
 </p>
-
-<script type="text/javascript" src="https://platform.linkedin.com/badges/js/profile.js" async defer></script>

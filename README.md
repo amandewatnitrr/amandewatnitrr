@@ -27,7 +27,7 @@
 - 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%
 - ✍🏻 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee 
 - 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) 
-- 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities.
+- 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
 - 💬 <samp>Ask me about IoT/Arduino/Raspberry-Pi/PHP-Dev/Cloud Architecture
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.

@@ -53,6 +53,9 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
 ![Firebase](https://img.shields.io/badge/Firebase-ffcb2c?style=flat-square&logo=Firebase&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=Visual-Studio-Code&logoColor=white)
+![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)
+![CodeChef](https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)
+
 
 ##
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=amandewatnitrr&count_private=true&show_icons=true&theme=radical&&include_all_commits=true)](https://github.com/amandewatnitrr/github-readme-stats-1)    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript)](https://github.com/amandewatnitrr/github-readme-stats-1)

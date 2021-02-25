@@ -28,8 +28,8 @@
 <a href="https://www.codechef.com/users/amandewatnitrr">
   <img align="left" alt="akd's codechef" width="100px" src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
 </a>
-<br/>
-<br/>
+<br>
+<br>
 <br>
 <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud Architecture ☁  & A Competitive Programmer </samp></h4></p>
 

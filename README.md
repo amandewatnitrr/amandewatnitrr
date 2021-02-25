@@ -28,6 +28,9 @@
 <a href="https://www.codechef.com/users/amandewatnitrr">
   <img align="left" alt="akd's codechef" width="100px" src="https://img.shields.io/badge/Codechef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white" />
 </a>
+<a href="mailto:amandewatnitrr@gmail.com">
+  <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
 <br>
 <br>
 <br>

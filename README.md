@@ -118,7 +118,9 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
 </span>
 
-##
+### :zap: Recent Activity
+
+<!--START_SECTION:activity-->
 
 ### Spotify Playing 🎧
 

@@ -122,7 +122,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-murex-nine.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/mkc5sfwxh876iwvcolt04s5gb)
+[![Spotify](https://novatorem-murex-nine.vercel.app/api/spotify-playing)](https://open.spotify.com/user/mkc5sfwxh876iwvcolt04s5gb)
 
 <br/>
 ---

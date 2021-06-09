@@ -129,6 +129,12 @@
 5. ❌ Closed PR [#2](https://github.com/alexeychikk/happy-birthday-orly/pull/2) in [alexeychikk/happy-birthday-orly](https://github.com/alexeychikk/happy-birthday-orly)
 <!--END_SECTION:activity-->
 
+  
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+  
 <hr>
   
 ### Spotify Playing 🎧

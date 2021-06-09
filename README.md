@@ -122,10 +122,9 @@
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://akdspotify.vercel.app/api/spotify)](https://open.spotify.com/user/mkc5sfwxh876iwvcolt04s5gb)
+[![Spotify](https://novatorem-gules-chi.vercel.app/api/spotify)](https://open.spotify.com/user/mkc5sfwxh876iwvcolt04s5gb)
 
 <br/>
----
   
 ### Github Stats
   

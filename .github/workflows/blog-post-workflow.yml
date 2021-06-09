@@ -11,4 +11,4 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@amandewatnitrr,https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/detail/recent-activity/shares/"
+          feed_list: "https://medium.com/feed/@amandewatnitrr,https://www.youtube.com/feeds/videos.xml?playlist_id=PLacy3v0dO3QsA0pTf2JeUZxPW7YDMpO9r"

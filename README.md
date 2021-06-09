@@ -130,7 +130,7 @@
 <!--END_SECTION:activity-->
 
   
-### Blog posts
+### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [HackNITR - 2.0 | Team Evolution | Good for Social Cause & Open Innovation | Project - MedIoT](https://www.youtube.com/watch?v=3Bi7_Ksgsnw)
 - [MedIoT - Summer Research Internship ppt by Aman Kumar Dewangan](https://www.youtube.com/watch?v=IrDfE1aY9mQ)

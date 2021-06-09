@@ -117,11 +117,14 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
 </span>
-
+<hr>
+  
 ### :zap: Recent Activity
 
 <!--START_SECTION:activity-->
 
+  
+<hr>
 ### Spotify Playing 🎧
 
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/mkc5sfwxh876iwvcolt04s5gb)

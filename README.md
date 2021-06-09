@@ -120,9 +120,10 @@
 
 ##
 
-### Now Playing 🎧
-  
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/embed/track/2cppGOIz0cuDnKoGzrDsJQ)
+### Spotify Playing 🎧
+
+[<img src="https://novatorem-murex-nine.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/mkc5sfwxh876iwvcolt04s5gb)
+
 <br/>
 ---
 ### Github Stats

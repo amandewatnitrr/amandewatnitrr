@@ -121,7 +121,7 @@
 ##
 
 ### Now Playing 🎧
-[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/collection/tracks)
+[![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I)
 <br/>
 ---
 ### Github Stats

@@ -54,7 +54,7 @@
 ##
 
 <div>
-<h4><b><samp>Experiences:</samp></b></h4>
+<h3><b><samp>Experiences:</samp></b></h3>
 - 👷 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee<br>
 - 👨🏾‍💻 <samp>Embedded IoT Intern at SVA Robotics(Sep,2020 - Oct,2020)<br>
 - 🕵🏻 <samp>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May,2020 - Aug,2020)<br>
@@ -63,7 +63,7 @@
 </div>
 
 ##
-<h4><b><samp>Skills and Languages</samp></b></h4>
+<h3><b><samp>Skills and Languages</samp></b></h3>
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white)
 ![Rapspberry Pi](https://img.shields.io/badge/Raspberry_pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)

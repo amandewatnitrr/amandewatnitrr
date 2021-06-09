@@ -114,7 +114,7 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/Octocat.png" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="50"/>
+<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
 </span>
 
 ##

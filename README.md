@@ -121,7 +121,9 @@
 ##
 
 ### Now Playing 🎧
+  
 <iframe src="https://open.spotify.com/embed/track/2cppGOIz0cuDnKoGzrDsJQ" width="100%" height="80" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+  
 [![Spotify](https://spotify-github-readme.vercel.app/api/spotify)](https://open.spotify.com/artist/2q3GG88dVwuQPF4FmySr9I)
 <br/>
 ---

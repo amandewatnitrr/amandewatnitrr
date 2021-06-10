@@ -133,6 +133,13 @@
 <a href="https://github.com/amandewatnitrr/Aztecs-LogiTraffic">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=Aztecs-LogiTraffic" />
 </a>
+<a href="https://github.com/amandewatnitrr/Wolfram">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=Wolfram" />
+</a>
+<a href="https://github.com/amandewatnitrr/Fuel-Tank-Level-Detector-IoT-Android-Solution-Smart-India-Hackathon2020">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=Fuel-Tank-Level-Detector-IoT-Android-Solution-Smart-India-Hackathon2020" />
+</a>
+ 
   
 ### :zap: Recent Activity
 

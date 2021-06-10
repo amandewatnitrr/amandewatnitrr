@@ -93,7 +93,7 @@
   </span>
     
 ##
-<h4><b><samp>Tools and Platform</samp></b></h4>
+<h3><b><samp>Tools and Platform</samp></b></h3>
 
 ![SmartThings](https://img.shields.io/badge/SmartThings-777BB4?style=flat-square&logo=SmartThings&logoColor=white)
 ![Google Cloud Platform](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
@@ -117,7 +117,22 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
 </span>
-<hr>
+<hr> 
+  
+## Check out my Repositories
+
+<a href="https://github.com/amandewatnitrr/A-10-NEXA">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=A-10-NEXA" />
+</a>
+<a href="https://github.com/amandewatnitrr/evolution-hacknitr">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=evolution-hacknitr" />
+</a>
+<a href="https://github.com/amandewatnitrr/Robothon_1.0_NITRR">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=Robothon_1.0_NITRR" />
+</a>
+<a href="https://github.com/amandewatnitrr/Aztecs-LogiTraffic">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=Aztecs-LogiTraffic" />
+</a>
   
 ### :zap: Recent Activity
 

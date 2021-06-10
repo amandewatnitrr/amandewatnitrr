@@ -168,6 +168,8 @@
 ### 📈 GitHub Activity Graph:
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amandewatnitrr&theme=github)
   
+<br>  
+
 ##
 <p align="center"> 
   Visitor count<br>

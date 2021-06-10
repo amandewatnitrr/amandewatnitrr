@@ -161,7 +161,7 @@
   
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.vercel.app/api/spotify)]
+![Spotify](https://novatorem.vercel.app/api/spotify)
 
 <br/>
  

@@ -121,6 +121,7 @@
   
 ## Check out my Repositories
 
+<span>
 <a href="https://github.com/amandewatnitrr/A-10-NEXA">
   <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=A-10-NEXA" />
 </a>
@@ -133,7 +134,7 @@
 <a href="https://github.com/amandewatnitrr/Wolfram">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=Wolfram" />
 </a>
- 
+  </span>
   
 ### :zap: Recent Activity
 

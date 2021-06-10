@@ -147,7 +147,9 @@
 [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/mkc5sfwxh876iwvcolt04s5gb)
 
 <br/>
-  
+ 
+ <hr>
+ 
 ### 📈 GitHub Activity Graph:
  ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amandewatnitrr&theme=github)
   

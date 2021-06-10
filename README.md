@@ -185,6 +185,10 @@
 ### 📈 GitHub Activity Graph:
   <a href="https://github.com/amandewatnitrr/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amandewatnitrr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=amandewatnitrr&badges=2&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+/>
+  
 <br>  
 
 ##

@@ -149,9 +149,6 @@
 <br/>
  
  <hr>
- 
-### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amandewatnitrr&theme=github)
   
 ### Github Stats
   
@@ -161,11 +158,15 @@
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript&layout=compact&langs_count=8&theme=algolia"/>
   </a>
 </p>
-
+<br>
+  
 ### 🏆 GitHub Profile Trophy:
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=amandewatnitrr&column=8&theme=darkhub&no-frame=true&no-bg=true"/>
 </a>
+
+### 📈 GitHub Activity Graph:
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amandewatnitrr&theme=github)
   
 ##
 <p align="center"> 

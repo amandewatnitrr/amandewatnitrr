@@ -148,6 +148,9 @@
 
 <br/>
   
+### 📈 GitHub Activity Graph:
+ ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amandewatnitrr&theme=github)
+  
 ### Github Stats
   
 <p align="center">

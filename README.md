@@ -119,7 +119,6 @@
 </span>
 <hr> 
   
-## 
 <h3><b><samp>Check out my Repositories</samp></b></h3>
 
 <span>

@@ -196,3 +196,5 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/amandewatnitrr/count.svg" />
 </p>
+  
+![github contribution grid snake animation](https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/output/github-contribution-grid-snake.svg)

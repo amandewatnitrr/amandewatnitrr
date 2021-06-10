@@ -183,7 +183,7 @@
 </p>
 
 ### 📈 GitHub Activity Graph:
- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=amandewatnitrr&theme=github)
+  <a href="https://github.com/amandewatnitrr/github-readme-activity-graph"><img alt="DenverCoder1's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=amandewatnitrr&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   
 <br>  
 

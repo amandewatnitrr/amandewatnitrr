@@ -133,6 +133,10 @@
 <hr>
   
 ### :zap: Recent Activity
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#3](https://github.com/amandewatnitrr/creative-profile-readme/pull/3) in [amandewatnitrr/creative-profile-readme](https://github.com/amandewatnitrr/creative-profile-readme)

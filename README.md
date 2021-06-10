@@ -119,7 +119,8 @@
 </span>
 <hr> 
   
-## Check out my Repositories
+## 
+<h3><b><samp>Check out my Repositories</samp></b></h3>
 
 <span>
 <a href="https://github.com/amandewatnitrr/A-10-NEXA">
@@ -129,6 +130,8 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=Aztecs-LogiTraffic" />
 </a>
   </span>
+  
+<hr>
   
 ### :zap: Recent Activity
 

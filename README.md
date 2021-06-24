@@ -139,11 +139,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#91](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pull/91) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
-2. 🗣 Commented on [#9](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues/9) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
-3. 🎉 Merged PR [#3](https://github.com/amandewatnitrr/creative-profile-readme/pull/3) in [amandewatnitrr/creative-profile-readme](https://github.com/amandewatnitrr/creative-profile-readme)
-4. 💪 Opened PR [#3](https://github.com/amandewatnitrr/creative-profile-readme/pull/3) in [amandewatnitrr/creative-profile-readme](https://github.com/amandewatnitrr/creative-profile-readme)
-5. 🗣 Commented on [#3](https://github.com/alexeychikk/happy-birthday-orly/issues/3) in [alexeychikk/happy-birthday-orly](https://github.com/alexeychikk/happy-birthday-orly)
+1. ❌ Reopened PR [#91](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pull/91) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+2. ❌ Closed PR [#91](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pull/91) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+3. 💪 Opened PR [#91](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pull/91) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+4. 🗣 Commented on [#9](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues/9) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+5. 🎉 Merged PR [#3](https://github.com/amandewatnitrr/creative-profile-readme/pull/3) in [amandewatnitrr/creative-profile-readme](https://github.com/amandewatnitrr/creative-profile-readme)
 <!--END_SECTION:activity-->
 
   

@@ -174,7 +174,7 @@
     <img height="45%" src="https://github-readme-stats.vercel.app/api?username=amandewatnitrr&count_private=true&show_icons=true&theme=tokyonight&&include_all_commits=true"/>
     <img width="45%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&theme=tokyonight" />
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=tokyonight"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandewatnitrr&theme=tokyonight" />
+    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandewatnitrr&theme=radical" />
     </span></a>
 </p>
   

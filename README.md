@@ -149,11 +149,11 @@
   
 ### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
-- [HackNITR - 2.0 | Team Evolution | Good for Social Cause & Open Innovation | Project - MedIoT](https://www.youtube.com/watch?v=3Bi7_Ksgsnw)
-- [MedIoT - Summer Research Internship ppt by Aman Kumar Dewangan](https://www.youtube.com/watch?v=IrDfE1aY9mQ)
 - [Making a Pulse Oximeter using Arduino](https://medium.com/@amandewatnitrr/making-a-pulse-oximeter-using-arduino-e0a7f21b2a5e?source=rss-e69b5e669025------2)
 - [Setting Up the Headless Raspberry Pi](https://medium.com/@amandewatnitrr/setting-up-the-headless-raspberry-pi-bb492866ee5f?source=rss-e69b5e669025------2)
-- [Sending DHT Data to Database with Realtime locaton](https://www.youtube.com/watch?v=n8AcpuOWHWg)
+- [Getting Started with Content Writing and Blog Writing](https://medium.com/@amandewatnitrr/getting-started-with-content-writing-and-blog-writing-52cc6a7440b4?source=rss-e69b5e669025------2)
+- [What you need to know as a Hardware and IoT Engineer?? How to Begin...](https://medium.com/@amandewatnitrr/what-you-need-to-know-as-a-hardware-and-iot-engineer-how-to-begin-f85ef44b06a?source=rss-e69b5e669025------2)
+- [My First Hackathon...Summed Up](https://medium.com/@amandewatnitrr/my-first-hackathon-summed-up-48187d27e513?source=rss-e69b5e669025------2)
 <!-- BLOG-POST-LIST:END -->
 
   

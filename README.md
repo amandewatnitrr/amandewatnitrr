@@ -49,6 +49,7 @@
 - 💬 <samp>Ask me about IoT/Arduino/Raspberry-Pi/PHP-Dev/Cloud Architecture
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
+- ♟ <samp>I play a lot of chess, and I am 1200 FIDE rated.
 </div>
 
 ##
@@ -56,8 +57,9 @@
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
 - 👷 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee(Aug,2020 - May,2022)<br>
-- 👨🏾‍💻 <samp>Embedded IoT Intern at SVA Robotics(Sep,2020 - Oct,2020)<br>
+- 📈 <samp>Research Student at Wolfram Summer School, 2021 (Education and Innovation Track)
 - 🕵🏻 <samp>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May,2020 - Aug,2020)<br>
+- 👨🏾‍💻 <samp>Embedded IoT Intern at SVA Robotics(Sep,2020 - Oct,2020)<br>
 - ☄️ <samp>Girlscript Ireland - Training - Game Development(August,2020)<br>
 - ☁ <samp>30 Days of Google Cloud(Cloud Engnieering Track)<br>
 </div>

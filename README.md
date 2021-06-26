@@ -141,11 +141,11 @@
 
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#101](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues/101) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
-2. 🗣 Commented on [#99](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues/99) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
-3. ❗️ Opened issue [#101](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues/101) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
-4. 🗣 Commented on [#65](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues/65) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
-5. 🗣 Commented on [#94](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues/94) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+1. 💪 Opened PR [#107](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pull/107) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+2. ❗️ Closed issue [#101](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues/101) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+3. 🗣 Commented on [#99](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues/99) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+4. ❗️ Opened issue [#101](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues/101) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+5. 🗣 Commented on [#65](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues/65) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 <!--END_SECTION:activity-->
 
   

@@ -206,4 +206,10 @@
   <img src="https://profile-counter.glitch.me/amandewatnitrr/count.svg" />
 </p>
   
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=amandewatnitrr&theme=flat&margin-w=15">
+</p>
+
+![snake svg](https://github.com/adityamangal1/adityamangal1/blob/output/github-contribution-grid-snake.svg)
+  
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bottom_header.svg)

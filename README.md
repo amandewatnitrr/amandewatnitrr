@@ -143,11 +143,11 @@
 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#114](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pull/114) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
-2. ❗️ Opened issue [#107](https://github.com/priyanshisharma/Leetcoding-Challenge/issues/107) in [priyanshisharma/Leetcoding-Challenge](https://github.com/priyanshisharma/Leetcoding-Challenge)
-3. 💪 Opened PR [#114](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pull/114) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
-4. ❗️ Opened issue [#113](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/issues/113) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
-5. 💪 Opened PR [#111](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pull/111) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
+1. 🎉 Merged PR [#2](https://github.com/ShrutiRawal/MedIoT/pull/2) in [ShrutiRawal/MedIoT](https://github.com/ShrutiRawal/MedIoT)
+2. 💪 Opened PR [#2](https://github.com/ShrutiRawal/MedIoT/pull/2) in [ShrutiRawal/MedIoT](https://github.com/ShrutiRawal/MedIoT)
+3. 🎉 Merged PR [#1](https://github.com/ShrutiRawal/MedIoT/pull/1) in [ShrutiRawal/MedIoT](https://github.com/ShrutiRawal/MedIoT)
+4. 💪 Opened PR [#1](https://github.com/ShrutiRawal/MedIoT/pull/1) in [ShrutiRawal/MedIoT](https://github.com/ShrutiRawal/MedIoT)
+5. ❌ Closed PR [#114](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation/pull/114) in [AkashSingh3031/The-Complete-FAANG-Preparation](https://github.com/AkashSingh3031/The-Complete-FAANG-Preparation)
 <!--END_SECTION:activity-->
 
   

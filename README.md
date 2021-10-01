@@ -143,11 +143,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/pull/2) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
-2. 💪 Opened PR [#2](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/pull/2) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
-3. 🎉 Merged PR [#1](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/pull/1) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
-4. 💪 Opened PR [#1](https://github.com/arpit456jain/Beginner-Friendly-Repos-for-Hacktoberfest/pull/1) in [arpit456jain/Beginner-Friendly-Repos-for-Hacktoberfest](https://github.com/arpit456jain/Beginner-Friendly-Repos-for-Hacktoberfest)
-5. 🎉 Merged PR [#10](https://github.com/amandewatnitrr/Octafest/pull/10) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
+1. ❌ Closed PR [#3](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/pull/3) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
+2. 🗣 Commented on [#3](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/issues/3) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
+3. 🎉 Merged PR [#2](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/pull/2) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
+4. 💪 Opened PR [#2](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/pull/2) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
+5. 🎉 Merged PR [#1](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/pull/1) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
 <!--END_SECTION:activity-->
 
   

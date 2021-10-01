@@ -143,11 +143,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/amandewatnitrr/Octafest/pull/2) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
-2. 🎉 Merged PR [#2](https://github.com/ShrutiRawal/MedIoT/pull/2) in [ShrutiRawal/MedIoT](https://github.com/ShrutiRawal/MedIoT)
-3. 💪 Opened PR [#2](https://github.com/ShrutiRawal/MedIoT/pull/2) in [ShrutiRawal/MedIoT](https://github.com/ShrutiRawal/MedIoT)
-4. 🎉 Merged PR [#1](https://github.com/ShrutiRawal/MedIoT/pull/1) in [ShrutiRawal/MedIoT](https://github.com/ShrutiRawal/MedIoT)
-5. 💪 Opened PR [#1](https://github.com/ShrutiRawal/MedIoT/pull/1) in [ShrutiRawal/MedIoT](https://github.com/ShrutiRawal/MedIoT)
+1. ❗️ Closed issue [#3](https://github.com/amandewatnitrr/Octafest/issues/3) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
+2. 🗣 Commented on [#3](https://github.com/amandewatnitrr/Octafest/issues/3) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
+3. 🗣 Commented on [#4](https://github.com/amandewatnitrr/Octafest/issues/4) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
+4. 🎉 Merged PR [#4](https://github.com/amandewatnitrr/Octafest/pull/4) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
+5. 🗣 Commented on [#4](https://github.com/amandewatnitrr/Octafest/issues/4) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
 <!--END_SECTION:activity-->
 
   

@@ -143,11 +143,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/amandewatnitrr/Octafest/issues/10) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
-2. 🗣 Commented on [#9](https://github.com/amandewatnitrr/Octafest/issues/9) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
+1. 🎉 Merged PR [#10](https://github.com/amandewatnitrr/Octafest/pull/10) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
+2. ❗️ Closed issue [#9](https://github.com/amandewatnitrr/Octafest/issues/9) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
 3. 🗣 Commented on [#9](https://github.com/amandewatnitrr/Octafest/issues/9) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
-4. 🗣 Commented on [#9](https://github.com/amandewatnitrr/Octafest/issues/9) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
-5. ❗️ Closed issue [#8](https://github.com/amandewatnitrr/Octafest/issues/8) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
+4. 🗣 Commented on [#10](https://github.com/amandewatnitrr/Octafest/issues/10) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
+5. 🗣 Commented on [#9](https://github.com/amandewatnitrr/Octafest/issues/9) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
 <!--END_SECTION:activity-->
 
   

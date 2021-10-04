@@ -143,11 +143,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/pull/4) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
-2. 🗣 Commented on [#4](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/issues/4) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
-3. 🗣 Commented on [#4](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/issues/4) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
-4. ❌ Closed PR [#3](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/pull/3) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
-5. 🗣 Commented on [#3](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/issues/3) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
+1. 🎉 Merged PR [#1](https://github.com/amandewatnitrr/timepass/pull/1) in [amandewatnitrr/timepass](https://github.com/amandewatnitrr/timepass)
+2. 💪 Opened PR [#5](https://github.com/amantoasha/timepass/pull/5) in [amantoasha/timepass](https://github.com/amantoasha/timepass)
+3. 🎉 Merged PR [#4](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/pull/4) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
+4. 🗣 Commented on [#4](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/issues/4) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
+5. 🗣 Commented on [#4](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/issues/4) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
 <!--END_SECTION:activity-->
 
   

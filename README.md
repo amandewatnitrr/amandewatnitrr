@@ -45,13 +45,14 @@
 
 - 👷 <samp>Currently pursuing B.Tech in Electrical Engrineering(2018-2022) from National Institute of Technology Raipur
 - 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%
-- ✍🏻 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee 
+- ✍🏻 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee (August 2020 - May 2022)
+- 👨🏻‍💻 <samp>Head Coordinator at Turing Club of Programmers, NIT Raipur.  
 - 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) 
 - 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
 - 💬 <samp>Ask me about IoT/Arduino/Raspberry-Pi/PHP-Dev/Cloud Architecture
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
-- ♟ <samp>I play a lot of chess, and I am 1200 FIDE rated.
+- ♟ <samp>I play a lot of chess, and I am 1400-1500 rated on chess.com.
 </div>
 
 ##
@@ -59,11 +60,14 @@
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
 - 👷 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee(Aug,2020 - May,2022)<br>
-- 🔬 <samp>Research Student at Wolfram Summer School, 2021 (Education and Innovation Track)<br>
+- 🔬 <samp>Ex-Research Student at Wolfram Summer School, 2021 (Education and Innovation Track)<br>
 - 🕵🏻 <samp>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May,2020 - Aug,2020)<br>
 - 👨🏾‍💻 <samp>Embedded IoT Intern at SVA Robotics(Sep,2020 - Oct,2020)<br>
 - ☄️ <samp>Girlscript Ireland - Training - Game Development(August,2020)<br>
 - ☁ <samp>30 Days of Google Cloud(Cloud Engnieering Track)<br>
+- 👨🏻‍🏫 <samp>Mentor and Judge at HackOdisha'21<br>
+- 👨🏻‍🏫 <samp>Mentor at ShellHacks'21<br>
+- 👷🏻 <samp>Lead Organiser and Speaker at Octafest'21<br>
 </div>
 
 ##

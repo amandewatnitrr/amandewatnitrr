@@ -46,6 +46,7 @@
 - 👷 <samp>Currently pursuing B.Tech in Electrical Engrineering(2018-2022) from National Institute of Technology Raipur
 - 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%
 - ✍🏻 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee (August 2020 - May 2022)
+- 🧑🏽🏻 <samp>Founder of Hack Club NITRR (October 2021 - Present)
 - 👨🏻‍💻 <samp>Head Coordinator at Turing Club of Programmers, NIT Raipur.  
 - 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) 
 - 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.

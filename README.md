@@ -147,11 +147,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/amandewatnitrr/Octafest/issues/18) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
-2. 🎉 Merged PR [#8](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/pull/8) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
-3. 🎉 Merged PR [#7](https://github.com/amandewatnitrr/Wolfram/pull/7) in [amandewatnitrr/Wolfram](https://github.com/amandewatnitrr/Wolfram)
-4. 🎉 Merged PR [#6](https://github.com/amandewatnitrr/Wolfram/pull/6) in [amandewatnitrr/Wolfram](https://github.com/amandewatnitrr/Wolfram)
-5. 🎉 Merged PR [#7](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/pull/7) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
+1. 🗣 Commented on [#19](https://github.com/amandewatnitrr/Octafest/issues/19) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
+2. 🗣 Commented on [#18](https://github.com/amandewatnitrr/Octafest/issues/18) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
+3. 🎉 Merged PR [#8](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/pull/8) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
+4. 🎉 Merged PR [#7](https://github.com/amandewatnitrr/Wolfram/pull/7) in [amandewatnitrr/Wolfram](https://github.com/amandewatnitrr/Wolfram)
+5. 🎉 Merged PR [#6](https://github.com/amandewatnitrr/Wolfram/pull/6) in [amandewatnitrr/Wolfram](https://github.com/amandewatnitrr/Wolfram)
 <!--END_SECTION:activity-->
 
   

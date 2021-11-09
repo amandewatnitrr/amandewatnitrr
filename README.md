@@ -148,11 +148,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Hack-Club-Nitrr/hack-club-frontend/pull/1) in [Hack-Club-Nitrr/hack-club-frontend](https://github.com/Hack-Club-Nitrr/hack-club-frontend)
-2. 💪 Opened PR [#1](https://github.com/Hack-Club-Nitrr/hack-club-frontend/pull/1) in [Hack-Club-Nitrr/hack-club-frontend](https://github.com/Hack-Club-Nitrr/hack-club-frontend)
-3. 🎉 Merged PR [#9](https://github.com/amandewatnitrr/Wolfram/pull/9) in [amandewatnitrr/Wolfram](https://github.com/amandewatnitrr/Wolfram)
-4. 🎉 Merged PR [#8](https://github.com/amandewatnitrr/Wolfram/pull/8) in [amandewatnitrr/Wolfram](https://github.com/amandewatnitrr/Wolfram)
-5. 🗣 Commented on [#19](https://github.com/amandewatnitrr/Octafest/issues/19) in [amandewatnitrr/Octafest](https://github.com/amandewatnitrr/Octafest)
+1. 🎉 Merged PR [#1](https://github.com/amandewatnitrr/hbd-prag/pull/1) in [amandewatnitrr/hbd-prag](https://github.com/amandewatnitrr/hbd-prag)
+2. 🎉 Merged PR [#1](https://github.com/Hack-Club-Nitrr/hack-club-frontend/pull/1) in [Hack-Club-Nitrr/hack-club-frontend](https://github.com/Hack-Club-Nitrr/hack-club-frontend)
+3. 💪 Opened PR [#1](https://github.com/Hack-Club-Nitrr/hack-club-frontend/pull/1) in [Hack-Club-Nitrr/hack-club-frontend](https://github.com/Hack-Club-Nitrr/hack-club-frontend)
+4. 🎉 Merged PR [#9](https://github.com/amandewatnitrr/Wolfram/pull/9) in [amandewatnitrr/Wolfram](https://github.com/amandewatnitrr/Wolfram)
+5. 🎉 Merged PR [#8](https://github.com/amandewatnitrr/Wolfram/pull/8) in [amandewatnitrr/Wolfram](https://github.com/amandewatnitrr/Wolfram)
 <!--END_SECTION:activity-->
 
   

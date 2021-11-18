@@ -148,11 +148,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Mh-Alim/BirthDayWeb/pull/2) in [Mh-Alim/BirthDayWeb](https://github.com/Mh-Alim/BirthDayWeb)
-2. 💪 Opened PR [#2](https://github.com/Mh-Alim/BirthDayWeb/pull/2) in [Mh-Alim/BirthDayWeb](https://github.com/Mh-Alim/BirthDayWeb)
-3. 💪 Opened PR [#1](https://github.com/Mh-Alim/BirthDayWeb/pull/1) in [Mh-Alim/BirthDayWeb](https://github.com/Mh-Alim/BirthDayWeb)
-4. 🎉 Merged PR [#1](https://github.com/amandewatnitrr/hbd-prag/pull/1) in [amandewatnitrr/hbd-prag](https://github.com/amandewatnitrr/hbd-prag)
-5. 🎉 Merged PR [#1](https://github.com/Hack-Club-Nitrr/hack-club-frontend/pull/1) in [Hack-Club-Nitrr/hack-club-frontend](https://github.com/Hack-Club-Nitrr/hack-club-frontend)
+1. 🎉 Merged PR [#4](https://github.com/Mh-Alim/BirthDayWeb/pull/4) in [Mh-Alim/BirthDayWeb](https://github.com/Mh-Alim/BirthDayWeb)
+2. 💪 Opened PR [#4](https://github.com/Mh-Alim/BirthDayWeb/pull/4) in [Mh-Alim/BirthDayWeb](https://github.com/Mh-Alim/BirthDayWeb)
+3. 🎉 Merged PR [#3](https://github.com/Mh-Alim/BirthDayWeb/pull/3) in [Mh-Alim/BirthDayWeb](https://github.com/Mh-Alim/BirthDayWeb)
+4. 💪 Opened PR [#3](https://github.com/Mh-Alim/BirthDayWeb/pull/3) in [Mh-Alim/BirthDayWeb](https://github.com/Mh-Alim/BirthDayWeb)
+5. 🎉 Merged PR [#2](https://github.com/Mh-Alim/BirthDayWeb/pull/2) in [Mh-Alim/BirthDayWeb](https://github.com/Mh-Alim/BirthDayWeb)
 <!--END_SECTION:activity-->
 
   

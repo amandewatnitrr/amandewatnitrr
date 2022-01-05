@@ -25,12 +25,6 @@
 <a href="https://www.hackerrank.com/amandewatnitrr?hr_r=1">
   <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
 </a>
-<a href="https://www.codechef.com/users/amandewatnitrr">
-  <img align="left" alt="akd's codechef" src="https://img.shields.io/badge/dynamic/json?label=CodeChef&query=%24.rating&url=https://competitive-coding-api.herokuapp.com/api/codechef/amandewatnitrr&prefix=Rating%20&logo=codechef&logoColor=f5f5dc&labelColor=7b5e47&style=for-the-badge&cacheSeconds=900" />
-</a>
-<a href="mailto:amandewatnitrr@gmail.com">
-  <img align="left" alt="akd's codechef" width="70px" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white" />
-</a>
 <a href="https://community.wolfram.com/web/amandewatnitrr?p_p_id=user_WAR_userportlet&tabs1=Discussions"  target="_blank">
   <img src="https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=Wolfram&logoColor=white">
 </a>

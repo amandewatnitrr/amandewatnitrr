@@ -142,11 +142,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/2) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
-2. 💪 Opened PR [#2](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/2) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
-3. 🎉 Merged PR [#9](https://github.com/Hack-Club-Nitrr/hack-club-frontend/pull/9) in [Hack-Club-Nitrr/hack-club-frontend](https://github.com/Hack-Club-Nitrr/hack-club-frontend)
-4. 💪 Opened PR [#9](https://github.com/Hack-Club-Nitrr/hack-club-frontend/pull/9) in [Hack-Club-Nitrr/hack-club-frontend](https://github.com/Hack-Club-Nitrr/hack-club-frontend)
-5. 🎉 Merged PR [#8](https://github.com/Hack-Club-Nitrr/hack-club-frontend/pull/8) in [Hack-Club-Nitrr/hack-club-frontend](https://github.com/Hack-Club-Nitrr/hack-club-frontend)
+1. 🎉 Merged PR [#3](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/3) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
+2. 💪 Opened PR [#3](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/3) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
+3. 🎉 Merged PR [#2](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/2) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
+4. 💪 Opened PR [#2](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/2) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
+5. 🎉 Merged PR [#9](https://github.com/Hack-Club-Nitrr/hack-club-frontend/pull/9) in [Hack-Club-Nitrr/hack-club-frontend](https://github.com/Hack-Club-Nitrr/hack-club-frontend)
 <!--END_SECTION:activity-->
 
   

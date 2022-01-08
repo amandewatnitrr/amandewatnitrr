@@ -142,11 +142,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/7) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
-2. 💪 Opened PR [#7](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/7) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
-3. 🎉 Merged PR [#6](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/6) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
-4. 💪 Opened PR [#6](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/6) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
-5. 🎉 Merged PR [#5](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/5) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
+1. 🎉 Merged PR [#10](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/10) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
+2. 💪 Opened PR [#10](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/10) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
+3. 🎉 Merged PR [#9](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/9) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
+4. 💪 Opened PR [#9](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/9) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
+5. 🎉 Merged PR [#7](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/7) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
 <!--END_SECTION:activity-->
 
   

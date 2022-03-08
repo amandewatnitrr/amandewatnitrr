@@ -142,11 +142,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/ayushganguli1769/codeutsava/pull/1) in [ayushganguli1769/codeutsava](https://github.com/ayushganguli1769/codeutsava)
-2. 💪 Opened PR [#1](https://github.com/ayushganguli1769/codeutsava/pull/1) in [ayushganguli1769/codeutsava](https://github.com/ayushganguli1769/codeutsava)
-3. 🎉 Merged PR [#11](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/11) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
-4. 💪 Opened PR [#11](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/11) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
-5. 🎉 Merged PR [#10](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/10) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
+1. 🎉 Merged PR [#83](https://github.com/Hack-Club-Nitrr/Treck-the-hill/pull/83) in [Hack-Club-Nitrr/Treck-the-hill](https://github.com/Hack-Club-Nitrr/Treck-the-hill)
+2. 🎉 Merged PR [#1](https://github.com/ayushganguli1769/codeutsava/pull/1) in [ayushganguli1769/codeutsava](https://github.com/ayushganguli1769/codeutsava)
+3. 💪 Opened PR [#1](https://github.com/ayushganguli1769/codeutsava/pull/1) in [ayushganguli1769/codeutsava](https://github.com/ayushganguli1769/codeutsava)
+4. 🎉 Merged PR [#11](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/11) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
+5. 💪 Opened PR [#11](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani/pull/11) in [ShrutiRawal/Team-X_HealthCare-Sanjeevani](https://github.com/ShrutiRawal/Team-X_HealthCare-Sanjeevani)
 <!--END_SECTION:activity-->
 
   

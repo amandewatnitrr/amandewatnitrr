@@ -142,11 +142,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#505](https://github.com/hackclub/dinosaurs/pull/505) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
-2. 🎉 Merged PR [#2](https://github.com/ayushganguli1769/codeutsava/pull/2) in [ayushganguli1769/codeutsava](https://github.com/ayushganguli1769/codeutsava)
-3. 💪 Opened PR [#2](https://github.com/ayushganguli1769/codeutsava/pull/2) in [ayushganguli1769/codeutsava](https://github.com/ayushganguli1769/codeutsava)
-4. 🎉 Merged PR [#83](https://github.com/Hack-Club-Nitrr/Treck-the-hill/pull/83) in [Hack-Club-Nitrr/Treck-the-hill](https://github.com/Hack-Club-Nitrr/Treck-the-hill)
-5. 🎉 Merged PR [#1](https://github.com/ayushganguli1769/codeutsava/pull/1) in [ayushganguli1769/codeutsava](https://github.com/ayushganguli1769/codeutsava)
+1. 💪 Opened PR [#6130](https://github.com/education/GitHubGraduation-2022/pull/6130) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+2. 💪 Opened PR [#505](https://github.com/hackclub/dinosaurs/pull/505) in [hackclub/dinosaurs](https://github.com/hackclub/dinosaurs)
+3. 🎉 Merged PR [#2](https://github.com/ayushganguli1769/codeutsava/pull/2) in [ayushganguli1769/codeutsava](https://github.com/ayushganguli1769/codeutsava)
+4. 💪 Opened PR [#2](https://github.com/ayushganguli1769/codeutsava/pull/2) in [ayushganguli1769/codeutsava](https://github.com/ayushganguli1769/codeutsava)
+5. 🎉 Merged PR [#83](https://github.com/Hack-Club-Nitrr/Treck-the-hill/pull/83) in [Hack-Club-Nitrr/Treck-the-hill](https://github.com/Hack-Club-Nitrr/Treck-the-hill)
 <!--END_SECTION:activity-->
 
   

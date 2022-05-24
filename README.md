@@ -43,7 +43,7 @@
 - ✍🏻 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee (August 2020 - May 2022)
 - 🧑🏽 <samp><b>Founder of Hack Club NITRR (October 2021 - Present)</b>
 - 👨🏻‍💻 <samp>Ex-Head Coordinator at Turing Club of Programmers, NIT Raipur.  
-- 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) || Codeutsava 5.0 Winner
+- 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) || Codeutsava 5.0 Winner (Feb 2022)
 - 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
 - 💬 <samp>Ask me about IoT/Arduino/Raspberry-Pi/PHP-Dev/Cloud Architecture
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming

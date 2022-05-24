@@ -38,13 +38,13 @@
   <br>
 
 - 👷 <samp><b>Edison Engineer @ GE Healthcare</b>
-- 👨‍🎓 <samp>B.Tech in Electrical Engrineering(2018-2022) from National Institute of Technology Raipur - 8.51 CPI
+- 👨‍🎓 <samp><b>B.Tech in Electrical Engrineering(2018-2022) from National Institute of Technology Raipur - 8.51 CPI</b>
 - 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%
 - ✍🏻 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee (August 2020 - May 2022)
-- 🧑🏽 <samp>Founder of Hack Club NITRR (October 2021 - Present)
-- 👨🏻‍💻 <samp>Head Coordinator at Turing Club of Programmers, NIT Raipur.  
-- 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) 
-- 💼 <samp>I’m looking for **Internship/Full-Time(PPO)** Opportunities/roles.
+- 🧑🏽 <samp><b>Founder of Hack Club NITRR (October 2021 - Present)</b>
+- 👨🏻‍💻 <samp>Ex-Head Coordinator at Turing Club of Programmers, NIT Raipur.  
+- 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) || Codeutsava 5.0 Winner
+- 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
 - 💬 <samp>Ask me about IoT/Arduino/Raspberry-Pi/PHP-Dev/Cloud Architecture
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.

@@ -37,7 +37,8 @@
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
 
-- 👷 <samp>Currently pursuing B.Tech in Electrical Engrineering(2018-2022) from National Institute of Technology Raipur
+- 👷 <samp><b>Edison Engineer @ GE Healthcare</b>
+- 👨‍🎓 <samp>B.Tech in Electrical Engrineering(2018-2022) from National Institute of Technology Raipur - 8.51 CPI
 - 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%
 - ✍🏻 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee (August 2020 - May 2022)
 - 🧑🏽 <samp>Founder of Hack Club NITRR (October 2021 - Present)

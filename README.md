@@ -55,7 +55,8 @@
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👷 Core Member of IEEE Bombay Section Technical and Professional Committee(Aug,2020 - May,2022)<br>
+- 👷 <samp><b>Edison Engineer @ GE Healthcare</b>
+- 👨‍🎓 Core Member of IEEE Bombay Section Technical and Professional Committee(Aug,2020 - May,2022)<br>
 - 🔬 Ex-Research Student at Wolfram Summer School, 2021 (Education and Innovation Track)<br>
 - 🕵🏻 Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May,2020 - Aug,2020)<br>
 - 👨🏾‍💻 Embedded IoT Intern at SVA Robotics(Sep,2020 - Oct,2020)<br>

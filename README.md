@@ -37,7 +37,7 @@
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
 
-- 👷 <samp><b>Edison Engineer @ GE Healthcare</b>
+- 👷 <samp><b>Upcoming Edison Engineer @ GE Healthcare</b>
 - 👨‍🎓 <samp><b>B.Tech in Electrical Engrineering(2018-2022) from National Institute of Technology Raipur - 8.51 CPI</b>
 - 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%
 - ✍🏻 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee (August 2020 - May 2022)
@@ -55,15 +55,18 @@
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👷 <b>Edison Engineer @ GE Healthcare</b><br>
+- 👷 <b>Upcoming Edison Engineer @ GE Healthcare</b><br>
 - 👨‍🎓 Core Member of IEEE Bombay Section Technical and Professional Committee(Aug,2020 - May,2022)<br>
 - 🔬 <b>Ex-Research Student at Wolfram Summer School, 2021 (Education and Innovation Track)</b><br>
 - 🕵🏻 <b>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May,2020 - Aug,2020)</b><br>
 - 👨🏾‍💻 <b>Embedded IoT Intern at SVA Robotics(Sep,2020 - Oct,2020)</b><br>
 - ☄️ Girlscript Ireland - Training - Game Development(August,2020)<br>
 - ☁ 30 Days of Google Cloud(Cloud Engnieering Track)<br>
+- 👨🏻‍🏫 Mentor at SparkDev UPE FIU (2021)<br>
 - 👨🏻‍🏫 Mentor and Judge at HackOdisha'21<br>
 - 👨🏻‍🏫 Mentor at ShellHacks'21<br>
+- 👨🏻‍🏫 Mentor at HackNITR 3.0<br>
+- 👨🏻‍🏫 Mentor at HackCBS 4.0<br>
 - 👷🏻 Lead Organiser and Speaker at Octafest'21<br>
 </div>
 

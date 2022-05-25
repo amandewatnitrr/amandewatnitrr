@@ -67,7 +67,7 @@
 - 👨🏻‍🏫 Mentor at ShellHacks'21<br>
 - 👨🏻‍🏫 Mentor at HackNITR 3.0<br>
 - 👨🏻‍🏫 Mentor at HackCBS 4.0<br>
-- 👷🏻 Lead Organiser and Speaker at Octafest'21<br>
+- 👷🏻 Lead Organiser and Speaker at Octafest'21 and Trek The Hill'22<br>
 </div>
 
 ##

@@ -40,9 +40,7 @@
 - 👷 <samp><b>Upcoming Edison Engineer @ GE Healthcare</b>
 - 👨‍🎓 <samp><b>B.Tech in Electrical Engrineering(2018-2022) from National Institute of Technology Raipur - 8.51 CPI</b>
 - 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%
-- ✍🏻 <samp>Core Member of IEEE Bombay Section Technical and Professional Committee (August 2020 - May 2022)
 - 🧑🏽 <samp><b>Founder of Hack Club NITRR (October 2021 - Present)</b>
-- 👨🏻‍💻 <samp>Ex-Head Coordinator at Turing Club of Programmers, NIT Raipur.  
 - 🥇 <samp>Runner Up Robothon_1.0(March 2020) || Runner Up Apscript Hackathon(Febrruary 2021) || E-Ujjwala Hackathon Finalists(August 2020) || Codeutsava 5.0 Winner (Feb 2022)
 - 💼 <samp>I’m looking for **Full-Time** Opportunities/roles.
 - 💬 <samp>Ask me about IoT/Arduino/Raspberry-Pi/PHP-Dev/Cloud Architecture
@@ -56,10 +54,11 @@
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
 - 👷 <b>Upcoming Edison Engineer @ GE Healthcare</b><br>
-- 👨‍🎓 Core Member of IEEE Bombay Section Technical and Professional Committee(Aug,2020 - May,2022)<br>
 - 🔬 <b>Ex-Research Student at Wolfram Summer School, 2021 (Education and Innovation Track)</b><br>
 - 🕵🏻 <b>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May,2020 - Aug,2020)</b><br>
 - 👨🏾‍💻 <b>Embedded IoT Intern at SVA Robotics(Sep,2020 - Oct,2020)</b><br>
+- ✍🏻 Ex-Core Member of IEEE Bombay Section Technical and Professional Committee (August 2020 - May 2022)<br>
+- 👨🏻‍💻 Ex-Head Coordinator at Turing Club of Programmers, NIT Raipur.<br>
 - ☄️ Girlscript Ireland - Training - Game Development(August,2020)<br>
 - ☁ 30 Days of Google Cloud(Cloud Engnieering Track)<br>
 - 👨🏻‍🏫 Mentor at SparkDev UPE FIU (2021)<br>

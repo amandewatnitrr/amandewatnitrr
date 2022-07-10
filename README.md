@@ -146,11 +146,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#68](https://github.com/hackclub/some-assembly-required/pull/68) in [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
-2. 🗣 Commented on [#67](https://github.com/hackclub/some-assembly-required/issues/67) in [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
-3. ❗️ Opened issue [#67](https://github.com/hackclub/some-assembly-required/issues/67) in [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
-4. 🎉 Merged PR [#10](https://github.com/amandewatnitrr/Wolfram/pull/10) in [amandewatnitrr/Wolfram](https://github.com/amandewatnitrr/Wolfram)
-5. 💪 Opened PR [#6130](https://github.com/education/GitHubGraduation-2022/pull/6130) in [education/GitHubGraduation-2022](https://github.com/education/GitHubGraduation-2022)
+1. ❌ Closed PR [#68](https://github.com/hackclub/some-assembly-required/pull/68) in [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
+2. 💪 Opened PR [#68](https://github.com/hackclub/some-assembly-required/pull/68) in [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
+3. 🗣 Commented on [#67](https://github.com/hackclub/some-assembly-required/issues/67) in [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
+4. ❗️ Opened issue [#67](https://github.com/hackclub/some-assembly-required/issues/67) in [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
+5. 🎉 Merged PR [#10](https://github.com/amandewatnitrr/Wolfram/pull/10) in [amandewatnitrr/Wolfram](https://github.com/amandewatnitrr/Wolfram)
 <!--END_SECTION:activity-->
 
   

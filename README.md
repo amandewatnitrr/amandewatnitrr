@@ -146,11 +146,11 @@
 
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#69](https://github.com/hackclub/some-assembly-required/pull/69) in [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
-2. 🗣 Commented on [#69](https://github.com/hackclub/some-assembly-required/issues/69) in [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
+1. 🎉 Merged PR [#1](https://github.com/amandewatnitrr/docker-tutorial/pull/1) in [amandewatnitrr/docker-tutorial](https://github.com/amandewatnitrr/docker-tutorial)
+2. ❌ Closed PR [#69](https://github.com/hackclub/some-assembly-required/pull/69) in [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
 3. 🗣 Commented on [#69](https://github.com/hackclub/some-assembly-required/issues/69) in [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
 4. 🗣 Commented on [#69](https://github.com/hackclub/some-assembly-required/issues/69) in [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
-5. 💪 Opened PR [#69](https://github.com/hackclub/some-assembly-required/pull/69) in [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
+5. 🗣 Commented on [#69](https://github.com/hackclub/some-assembly-required/issues/69) in [hackclub/some-assembly-required](https://github.com/hackclub/some-assembly-required)
 <!--END_SECTION:activity-->
 
   

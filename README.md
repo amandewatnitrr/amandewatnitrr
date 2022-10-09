@@ -146,11 +146,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#13](https://github.com/amantoasha/timepass/pull/13) in [amantoasha/timepass](https://github.com/amantoasha/timepass)
-2. 💪 Opened PR [#12](https://github.com/amantoasha/timepass/pull/12) in [amantoasha/timepass](https://github.com/amantoasha/timepass)
-3. 💪 Opened PR [#11](https://github.com/amantoasha/timepass/pull/11) in [amantoasha/timepass](https://github.com/amantoasha/timepass)
-4. ❌ Closed PR [#10](https://github.com/amantoasha/timepass/pull/10) in [amantoasha/timepass](https://github.com/amantoasha/timepass)
-5. 💪 Opened PR [#10](https://github.com/amantoasha/timepass/pull/10) in [amantoasha/timepass](https://github.com/amantoasha/timepass)
+1. 🎉 Merged PR [#10](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/pull/10) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
+2. 💪 Opened PR [#13](https://github.com/amantoasha/timepass/pull/13) in [amantoasha/timepass](https://github.com/amantoasha/timepass)
+3. 💪 Opened PR [#12](https://github.com/amantoasha/timepass/pull/12) in [amantoasha/timepass](https://github.com/amantoasha/timepass)
+4. 💪 Opened PR [#11](https://github.com/amantoasha/timepass/pull/11) in [amantoasha/timepass](https://github.com/amantoasha/timepass)
+5. ❌ Closed PR [#10](https://github.com/amantoasha/timepass/pull/10) in [amantoasha/timepass](https://github.com/amantoasha/timepass)
 <!--END_SECTION:activity-->
 
   

@@ -146,11 +146,11 @@
 
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/issues/10) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
-2. 🎉 Merged PR [#10](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/pull/10) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
-3. 💪 Opened PR [#13](https://github.com/amantoasha/timepass/pull/13) in [amantoasha/timepass](https://github.com/amantoasha/timepass)
-4. 💪 Opened PR [#12](https://github.com/amantoasha/timepass/pull/12) in [amantoasha/timepass](https://github.com/amantoasha/timepass)
-5. 💪 Opened PR [#11](https://github.com/amantoasha/timepass/pull/11) in [amantoasha/timepass](https://github.com/amantoasha/timepass)
+1. 🎉 Merged PR [#3](https://github.com/amandewatnitrr/docker-tutorial/pull/3) in [amandewatnitrr/docker-tutorial](https://github.com/amandewatnitrr/docker-tutorial)
+2. 🗣 Commented on [#10](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/issues/10) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
+3. 🎉 Merged PR [#10](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21/pull/10) in [amandewatnitrr/profile-readme-hacktoberfest21](https://github.com/amandewatnitrr/profile-readme-hacktoberfest21)
+4. 💪 Opened PR [#13](https://github.com/amantoasha/timepass/pull/13) in [amantoasha/timepass](https://github.com/amantoasha/timepass)
+5. 💪 Opened PR [#12](https://github.com/amantoasha/timepass/pull/12) in [amantoasha/timepass](https://github.com/amantoasha/timepass)
 <!--END_SECTION:activity-->
 
   

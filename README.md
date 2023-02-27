@@ -139,46 +139,6 @@
   
 <hr>
   
-### :zap: Recent Activity
-  
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-9%20hrs%205%20mins-blue)
-
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                234 commits         ████████░░░░░░░░░░░░░░░░░   31.37 % 
-🌆 Daytime                174 commits         ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
-🌃 Evening                156 commits         █████░░░░░░░░░░░░░░░░░░░░   20.91 % 
-🌙 Night                  182 commits         ██████░░░░░░░░░░░░░░░░░░░   24.40 % 
-```
-📅 **I'm Most Productive on Thursday** 
-
-```text
-Monday                   103 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.81 % 
-Tuesday                  87 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
-Wednesday                71 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
-Thursday                 177 commits         ██████░░░░░░░░░░░░░░░░░░░   23.73 % 
-Friday                   89 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.93 % 
-Saturday                 66 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Sunday                   153 commits         █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
-```
-
-
-
- Last Updated on 27/02/2023 00:34:18 UTC
-<!--END_SECTION:waka-->
-
-
-<!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/amandewatnitrr/ge-htc-frontend-r1-g6/pull/1) in [amandewatnitrr/ge-htc-frontend-r1-g6](https://github.com/amandewatnitrr/ge-htc-frontend-r1-g6)
-2. ❌ Closed PR [#2](https://github.com/amandewatnitrr/ge-htc-frontend-r1-g6/pull/2) in [amandewatnitrr/ge-htc-frontend-r1-g6](https://github.com/amandewatnitrr/ge-htc-frontend-r1-g6)
-3. 💪 Opened PR [#2](https://github.com/amandewatnitrr/ge-htc-frontend-r1-g6/pull/2) in [amandewatnitrr/ge-htc-frontend-r1-g6](https://github.com/amandewatnitrr/ge-htc-frontend-r1-g6)
-4. 💪 Opened PR [#1](https://github.com/amandewatnitrr/ge-htc-frontend-r1-g6/pull/1) in [amandewatnitrr/ge-htc-frontend-r1-g6](https://github.com/amandewatnitrr/ge-htc-frontend-r1-g6)
-5. 💪 Opened PR [#12](https://github.com/amantoasha/timepass/pull/12) in [amantoasha/timepass](https://github.com/amantoasha/timepass)
-<!--END_SECTION:activity-->
-
-  
 ### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Making a Pulse Oximeter using Arduino](https://medium.com/@amandewatnitrr/making-a-pulse-oximeter-using-arduino-e0a7f21b2a5e?source=rss-e69b5e669025------2)
@@ -190,25 +150,6 @@ Sunday                   153 commits         █████░░░░░░�
 
   
 <hr>
-  
-### Spotify Playing 🎧
-
-![Spotify](https://novatorem.vercel.app/api/spotify)
-
-<br/>
- 
- <hr>
-  
-### Github Stats
-  
-<p align="center">
-  <a href="https://github.com/amandewatnitrr"><span>
-    <img height="48%" src="https://github-readme-stats.vercel.app/api?username=amandewatnitrr&count_private=true&show_icons=true&theme=radical&&include_all_commits=true"/>
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&theme=radical" />
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=amandewatnitrr&hide=html,css,javascript,scss&layout=compact&langs_count=8&theme=radical"/>
-    <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amandewatnitrr&theme=dracula" />
-    </span></a>
-</p>
   
 <br>
   

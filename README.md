@@ -53,7 +53,7 @@
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👷 <b>Upcoming Edison Engineer @ GE Healthcare</b><br>
+- 👷 <b>Edison Engineer @ GE Healthcare</b><br>
 - 🔬 <b>Ex-Research Student at Wolfram Summer School, 2021 (Education and Innovation Track)</b><br>
 - 🕵🏻 <b>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May 2020 - Aug 2020)</b><br>
 - 👨🏾‍💻 <b>Embedded IoT Intern at SVA Robotics(Sep 2020 - Oct 2020)</b><br>

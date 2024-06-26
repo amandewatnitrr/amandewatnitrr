@@ -25,6 +25,10 @@
 <a href="https://community.wolfram.com/web/amandewatnitrr?p_p_id=user_WAR_userportlet&tabs1=Discussions"  target="_blank">
   <img src="https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=Wolfram&logoColor=white">
 </a>
+<a href="https://leetcode.com/u/amandewatnitrr/"  target="_blank">
+  <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
+</a>
+
 <br><br>
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 

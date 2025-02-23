@@ -38,7 +38,7 @@
 <img align="right" src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/terminal.gif" width="40%"/>
   <br>
 
-- 👷 <samp><b>Edison Engineer @ GE Healthcare</b>
+- 👷 <samp><b>Software Developer @ GE Healthcare</b>
 - 👨‍🎓 <samp><b>B.Tech in Electrical Engrineering(2018-2022) from National Institute of Technology Raipur - 8.51 CPI</b>
 - 🔭 <samp>Diploma in Computer Applications from C.V.Raman University(2020) - 83.85%
 - 🧑🏽 <samp><b>Founder of Hack Club NITRR (October 2021 - Present)</b>
@@ -54,7 +54,7 @@
 
 <div>
 <h3><b><samp>Experiences:</samp></b></h3>
-- 👷 <b>Edison Engineer @ GE Healthcare</b><br>
+- 👷 <b>Software Developer @ GE Healthcare</b><br>
 - 🔬 <b>Ex-Research Student at Wolfram Summer School, 2021 (Education and Innovation Track)</b><br>
 - 🕵🏻 <b>Summer Research Intern at National Institute of Technology Raipur, Chhattisgarh(May 2020 - Aug 2020)</b><br>
 - 👨🏾‍💻 <b>Embedded IoT Intern at SVA Robotics(Sep 2020 - Oct 2020)</b><br>

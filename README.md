@@ -92,6 +92,14 @@
 <h4><b><samp>Database</samp></b></h4>
 
 ![](https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&perline=18)
+
+<h4><b><samp>Electronics and IoT</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=arduino,raspberrypi&perline=18)
+
+<h4><b><samp>Design and Video Editing</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=blender,ae,pr,ai,figma&perline=18)
     
 ##
 <h3><b><samp>Tools and Platform</samp></b></h3>

@@ -71,13 +71,19 @@
 </div>
 
 ##
-<h3><b><samp>Languages</samp></b></h3>
+<h3><b><samp>Skills</samp></b></h3>
+
+<h4><b><samp>Languages</samp></b></h4>
 
 ![](https://skillicons.dev/icons?i=cpp,c,py,js,java&perline=18)
 
-<h3><b><samp>DevOps</samp></b></h3>
+<h4><b><samp>DevOps</samp></b></h4>
 
 ![](https://skillicons.dev/icons?i=git,docker,kubernetes,terraform,gherkin,jenkins,nginx,grafana,prometheus,gcp&perline=18)
+
+<h4><b><samp>Frontend</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,react,md&perline=18)
     
 ##
 <h3><b><samp>Tools and Platform</samp></b></h3>

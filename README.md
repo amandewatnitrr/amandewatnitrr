@@ -99,6 +99,8 @@
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/javascript.svg" alt="drawing" width="50"/>
 <img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/wolfram-language.svg" alt="drawing" width="50"/>
   </span>
+
+![](https://skillicons.dev/icons?i=cpp,c,py,js,java,md,html,css,bootstrap,react,django,php,postman,rabbitmq,bash,git,docker,kubernetes,terraform,gherkin,jenkins,nginx,grafana,prometheus,gcp,postgres,mysql,sqlite,firebase,arduino,raspberrypi,blender,ae,pr,ai,figma&perline=18)
     
 ##
 <h3><b><samp>Tools and Platform</samp></b></h3>

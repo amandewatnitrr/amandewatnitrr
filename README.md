@@ -73,7 +73,7 @@
 ##
 <h3><b><samp>Skills and Languages</samp></b></h3>
 
-![](https://skillicons.dev/icons?i=cpp,c,py,js,java,md,html,css,bootstrap,react,django,php,postman,rabbitmq,bash,git,docker,kubernetes,terraform,gherkin,jenkins,nginx,grafana,prometheus,gcp,postgres,mysql,sqlite,firebase,arduino,raspberrypi,blender,ae,pr,ai,figma&perline=18)
+![](https://skillicons.dev/icons?i=cpp,c,py,js,java&perline=18)
     
 ##
 <h3><b><samp>Tools and Platform</samp></b></h3>

@@ -75,7 +75,7 @@
 
 <h4><b><samp>Languages</samp></b></h4>
 
-![](https://skillicons.dev/icons?i=cpp,c,py,js,java&perline=18)
+![](https://skillicons.dev/icons?i=cpp,c,py,js,java,bash&perline=18)
 
 <h4><b><samp>DevOps</samp></b></h4>
 

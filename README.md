@@ -104,18 +104,14 @@
 ##
 <h3><b><samp>Tools and Platform</samp></b></h3>
 
+<h4><b><samp>Operating Systems and Platforms</samp></b></h4>
 
-  
-<span>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/bootstrap-5-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/firebase-1.svg" alt="drawing" width="30"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/git-icon.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/Octocat.png" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/google-cloud-1.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/hackerrank.svg" alt="drawing" width="50"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/visual-studio-code.svg" alt="drawing" width="40"/>
-<img src="https://github.com/amandewatnitrr/amandewatnitrr/blob/main/imgs/heroku-4.svg" alt="drawing" width="40"/>
-</span>
+![](https://skillicons.dev/icons?i=windows,linux,apple,ubuntu,debian&perline=18)
+
+<h4><b><samp>IDEs</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=clion,idea,webstorm,pycharm,vscode,sublime,anaconda,vim&perline=18)
+
 <hr> 
   
 <h3><b><samp>Check out my Repositories</samp></b></h3>

@@ -88,6 +88,10 @@
 <h4><b><samp>Backend</samp></b></h4>
 
 ![](https://skillicons.dev/icons?i=django,php,postman,rabbitmq&perline=18)
+
+<h4><b><samp>Database</samp></b></h4>
+
+![](https://skillicons.dev/icons?i=postgres,mysql,sqlite,firebase&perline=18)
     
 ##
 <h3><b><samp>Tools and Platform</samp></b></h3>

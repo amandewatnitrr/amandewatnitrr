@@ -60,13 +60,9 @@
 - 👨🏾‍💻 <b>Embedded IoT Intern at SVA Robotics(Sep 2020 - Oct 2020)</b><br>
 - ✍🏻 Ex-Core Member of IEEE Bombay Section Technical and Professional Committee (August 2020 - May 2022)<br>
 - 👨🏻‍💻 Ex-Head Coordinator at Turing Club of Programmers, NIT Raipur.<br>
-- ☄️ Girlscript Ireland - Training - Game Development(August 2020)<br>
 - ☁ 30 Days of Google Cloud(Cloud Engnieering Track)<br>
 - 👨🏻‍🏫 Mentor at SparkDev UPE FIU (2021)<br>
 - 👨🏻‍🏫 Mentor and Judge at HackOdisha'21<br>
-- 👨🏻‍🏫 Mentor at ShellHacks'21<br>
-- 👨🏻‍🏫 Mentor at HackNITR 3.0<br>
-- 👨🏻‍🏫 Mentor at HackCBS 4.0<br>
 - 👷🏻 Lead Organiser and Speaker at Octafest'21 and Trek The Hill'22<br>
 </div>
 

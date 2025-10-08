@@ -12,7 +12,7 @@
 <a href="https://www.youtube.com/channel/UCJ3giAOL-ycnqLDCA96AJag">
   <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
 </a>
-<a href="https://www.coursera.org/user/b64b50f1306c84937347735b9120e533">
+<a href="https://www.coursera.org/learner/akd-1301">
   <img align="left" alt="kad's Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
 </a>
 <a href="https://www.qwiklabs.com/public_profiles/d9014880-0e88-42ad-abee-5e6e5e380de5">

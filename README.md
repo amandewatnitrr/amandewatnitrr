@@ -86,7 +86,7 @@
 
 <h4><b><samp>Database</samp></b></h4>
 
-![](https://skills.syvixor.com/api/icons?i=django,php,postman,rabbitmq&perline=18)
+![](https://skills.syvixor.com/api/icons?perline=18&i=postgresql,mysql,sqlite,firebase)
 
 <h4><b><samp>Electronics and IoT</samp></b></h4>
 

@@ -112,11 +112,11 @@
 <h3><b><samp>Check out my Repositories</samp></b></h3>
 
 <span>
-<a href="https://github.com/amandewatnitrr/A-10-NEXA">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=A-10-NEXA" />
+<a href="https://github.com/amandewatnitrr/hacking-tutorial">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=hacking-tutorial" />
 </a>
-<a href="https://github.com/amandewatnitrr/Aztecs-LogiTraffic">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=Aztecs-LogiTraffic" />
+<a href="https://github.com/amandewatnitrr/django-tutorial">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=django-tutorial" />
 </a>
   </span>
   
@@ -135,14 +135,6 @@
 <hr>
   
 <br>
-
-
- ### 🏆 GitHub Profile Trophy:
- <p align="center">
- <a href="https://github.com/ryo-ma/github-profile-trophy">
-   <img width=800 src="https://github-profile-trophy.vercel.app/?username=amandewatnitrr&column=8&theme=onedark&no-frame=true&no-bg=true"/>
- </a>
- </p>
 
 ### 🔖 Holopins:
   

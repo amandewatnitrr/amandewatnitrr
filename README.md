@@ -46,7 +46,7 @@
 - 💬 <samp>Ask me about Full Stack Dev/DevOps/IoT & Electronics.
 - 🤔 <samp>I’m looking for help with how to excel in Competitive Programming
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
-- ♟ <samp>I play a lot of chess, and Valorant. I am 1400-1500 rated on chess.com. My peak Valorant rank is Plat 3.
+- ♟ <samp>I play a lot of chess, and Valorant. I am 1400-1500 rated on chess.com. My peak Valorant rank is Diamond 3.
 </div>
 
 ##

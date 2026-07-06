@@ -4,23 +4,20 @@
   <img align="left" alt="akd's Linkdein" width="30px" src="https://skills.syvixor.com/api/icons?i=linkedin&perline=12&radius=40" />
 </a>
 <a href="https://github.com/amandewatnitrr">
-  <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />
+  <img align="left" alt="akd's Github" width="30px" src="https://skills.syvixor.com/api/icons?i=github&perline=12&radius=40" />
 </a>
 <a href="https://www.instagram.com/straw_hat_akd/">
-  <img align="left" alt="akd's Instagram" width="100px" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img align="left" alt="akd's Instagram" width="30px" src="https://skills.syvixor.com/api/icons?i=instagram&perline=12&radius=40" />
 </a>
 <a href="https://www.youtube.com/channel/UCJ3giAOL-ycnqLDCA96AJag">
-  <img align="left" alt="akd's Youtube" width="100px" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white" />
-</a>
-<a href="https://www.coursera.org/learner/akd-1301">
-  <img align="left" alt="kad's Coursera" width="100px" src="https://img.shields.io/badge/Coursera-0056D2?style=for-the-badge&logo=Coursera&logoColor=white" />
+  <img align="left" alt="akd's Youtube" width="30px" src="https://skills.syvixor.com/api/icons?i=youtube&perline=12&radius=40" />
 </a>
 <a href="https://www.qwiklabs.com/public_profiles/d9014880-0e88-42ad-abee-5e6e5e380de5">
   <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
 </a>
 <br><br>
 <a href="https://www.hackerrank.com/amandewatnitrr?hr_r=1">
-  <img align="left" alt="akd's hackerrank" width="100px" src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black" />
+  <img align="left" alt="akd's hackerrank" width="30px" src="https://skills.syvixor.com/api/icons?i=hackerrank&perline=12&radius=40" />
 </a>
 <a href="https://community.wolfram.com/web/amandewatnitrr?p_p_id=user_WAR_userportlet&tabs1=Discussions"  target="_blank">
   <img src="https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=Wolfram&logoColor=white">

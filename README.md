@@ -18,7 +18,8 @@
 - ⚡ <samp>Fun fact: I am kinda boring and sometimes dumb though, but I am a determined guy.
 - ♟ <samp>I play a lot of chess, and Valorant. I am 1400-1500 rated on chess.com. My peak Valorant rank is Diamond 3.
 </div>
-
+---
+## Socials & Links
 <br><br>
 <a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
   <img align="left" alt="akd's Linkdein" width="30px" src="https://skills.syvixor.com/api/icons?i=linkedin&perline=12&radius=40" />
@@ -45,6 +46,7 @@
   <img align="left" alt="akd's leetcode" width="30px" src="https://skills.syvixor.com/api/icons?i=leetcode&perline=12&radius=40">
 </a>
 
+<br/><br/>
 
 ##
 

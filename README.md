@@ -97,7 +97,7 @@
 
 <h4><b><samp>Operating Systems and Platforms</samp></b></h4>
 
-![](https://skills.syvixor.com/api/icons?i=windows,linux,apple,ubuntu,debian,kalilinux&perline=18)
+![](https://skills.syvixor.com/api/icons?i=windows,linux,apple,ubuntu,debian,kalilinux,opensuse&perline=18)
 
 <h4><b><samp>IDEs</samp></b></h4>
 

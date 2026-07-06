@@ -66,7 +66,7 @@
 
 <h4><b><samp>Languages</samp></b></h4>
 
-![](https://skills.syvixor.com/api/icons?i=cpp,python,wolframmathematica,js,java,bash&perline=18)
+![](https://skills.syvixor.com/api/icons?i=cpp,python,bash,wolframmathematica,js,java&perline=18)
 
 <h4><b><samp>DevOps</samp></b></h4>
 

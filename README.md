@@ -70,7 +70,7 @@
 
 <h4><b><samp>DevOps</samp></b></h4>
 
-![](https://skills.syvixor.com/api/icons?i=git,docker,kubernetes,helm,terraform,gherkin,jenkins,nginx,grafana,prometheus,googlecloud&perline=18)
+![](https://skills.syvixor.com/api/icons?i=git,docker,kubernetes,helm,gherkin,jenkins,nginx,grafana,prometheus,googlecloud&perline=18)
 
 <h4><b><samp>Frontend</samp></b></h4>
 

@@ -20,7 +20,6 @@
 </div>
 
 ---
-##
 
 <div>
 <h3><b><samp>Socials & Links:</samp></b></h3>

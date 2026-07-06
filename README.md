@@ -106,19 +106,6 @@
 <h4><b><samp>IDEs</samp></b></h4>
 
 ![](https://skills.syvixor.com/api/icons?i=clion,intellijidea,webstorm,pycharm,vscode,sublime,anaconda,vim&perline=18)
-
-<hr> 
-  
-<h3><b><samp>Check out my Repositories</samp></b></h3>
-
-<span>
-<a href="https://github.com/amandewatnitrr/hacking-tutorial">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=hacking-tutorial" />
-</a>
-<a href="https://github.com/amandewatnitrr/django-tutorial">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amandewatnitrr&repo=django-tutorial" />
-</a>
-  </span>
   
 <hr>
   

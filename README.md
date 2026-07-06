@@ -15,7 +15,6 @@
 <a href="https://www.qwiklabs.com/public_profiles/d9014880-0e88-42ad-abee-5e6e5e380de5">
   <img align="left" alt="akd's Qwiklab" width="100px" src="https://img.shields.io/badge/Qwiklabs-F5CD0E?style=for-the-badge&logo=Qwiklabs&logoColor=black" />
 </a>
-<br><br>
 <a href="https://www.hackerrank.com/amandewatnitrr?hr_r=1">
   <img align="left" alt="akd's hackerrank" width="30px" src="https://skills.syvixor.com/api/icons?i=hackerrank&perline=12&radius=40" />
 </a>
@@ -23,7 +22,7 @@
   <img src="https://img.shields.io/badge/Wolfram-DD1100?style=for-the-badge&logo=Wolfram&logoColor=white">
 </a>
 <a href="https://leetcode.com/u/amandewatnitrr/"  target="_blank">
-  <img src="https://img.shields.io/badge/Leetcode-834e33?style=for-the-badge&logo=Leetcode&logoColor=white">
+  <img align="left" alt="akd's leetcode" width="30px" src="https://skills.syvixor.com/api/icons?i=leetcode&perline=12&radius=40">
 </a>
 
 <br><br>

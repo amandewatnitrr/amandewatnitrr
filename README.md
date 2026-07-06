@@ -20,9 +20,10 @@
 </div>
 
 ---
+##
 
-<br><br>
-## Socials & Links
+<div>
+<h3><b><samp>Socials & Links:</samp></b></h3>
 <a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
   <img align="left" alt="akd's Linkdein" width="30px" src="https://skills.syvixor.com/api/icons?i=linkedin&perline=12&radius=40" />
 </a>

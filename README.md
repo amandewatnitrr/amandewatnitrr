@@ -1,7 +1,7 @@
 # Hey Everyone! I'm [Aman Kumar Dewangan a.k.a AkD!](https://github.com/amandewatnitrr)
 <br><br>
 <a href="https://www.linkedin.com/in/aman-kumar-dewangan-akd13o1/">
-  <img align="left" alt="akd's Linkdein" width="100px" src="https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=Linkedin&logoColor=white" />
+  <img align="left" alt="akd's Linkdein" width="100px" src="https://skills.syvixor.com/api/icons?i=linkedin&perline=12&radius=40" />
 </a>
 <a href="https://github.com/amandewatnitrr">
   <img align="left" alt="akd's Github" width="100px" src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white" />

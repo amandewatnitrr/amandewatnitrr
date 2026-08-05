@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0A66C2&height=180&section=header&text=Hey%2C%20I'm%20AkD!&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=IoT%20Developer%20%C2%B7%20Cybersec%20Enthusiast%20%C2%B7%20Cloud%20Architect&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:0A66C2&height=180&section=header&text=Hey%2C%20I'm%20AkD!&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Software%20Developer%20%C2%B7%20IoT%20Developer%20%C2%B7%20Cybersec%20Enthusiast&descAlignY=58&descSize=18" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=IoT+Developer+%7C+Cybersec+Enthusiast;Open+Source+Contributor;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=IoT+Developer+%7C+Software+Developer+%7C+Cybersec+Enthusiast;Open+Source+Contributor;" alt="Typing SVG" />
 
 </div>
 

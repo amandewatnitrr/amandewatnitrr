@@ -112,7 +112,7 @@
 
 <h4><b><samp>Preferred AI (best on left to least on right)</samp></b></h4>
 
-![](https://skills.syvixor.com/api/icons?i=githubcopilot,claudeai,codex,deepseek&perline=12&radius=40)
+![](https://skills.syvixor.com/api/icons?i=claudeai,githubcopilot,codex,deepseek&perline=12&radius=40)
 
 <hr>
 

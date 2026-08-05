@@ -116,19 +116,6 @@
 
 <hr>
 
-<h3><b><samp>GitHub Stats</samp></b></h3>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amandewatnitrr&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amandewatnitrr&theme=tokyonight&hide_border=true" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amandewatnitrr&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
-</p>
-
-<hr>
-
 ### ✍️ Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Making a Pulse Oximeter using Arduino](https://medium.com/@amandewatnitrr/making-a-pulse-oximeter-using-arduino-e0a7f21b2a5e?source=rss-e69b5e669025------2)

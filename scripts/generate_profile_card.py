@@ -31,8 +31,9 @@ HEADERS = {"Authorization": f"bearer {TOKEN}"} if TOKEN else {}
 REST_HEADERS = {"Authorization": f"token {TOKEN}"} if TOKEN else {}
 
 ACCENT = "#0A66C2"
-ASCII_RAMP = "@80GCLft1i;:,. "  # dense (dark) -> sparse (light), 15 levels
-ASCII_WIDTH = 130
+DOT_COLS = 60          # grid columns for the halftone portrait
+DOT_CELL = 8            # px spacing between dot centers
+DOT_MAX_RADIUS = 3.9    # px, darkest pixel -> this radius (cell/2 minus a hairline gap)
 LOCAL_IMAGE_GLOB = os.path.join(os.path.dirname(__file__), "avatar.*")
 
 
@@ -155,51 +156,32 @@ def flatten_to_white(img):
     return img.convert("RGB")
 
 
-def dither_to_ascii(img_L, ramp):
-    """Floyd-Steinberg error-diffusion dither, quantized to len(ramp) levels.
-    Plain nearest-level rounding bands flat regions and throws away
-    mid-tone detail; diffusing the rounding error to neighboring pixels
-    preserves gradients (this is what gives the art actual shading)."""
-    width, height = img_L.size
-    levels = len(ramp)
-    step = 255.0 / (levels - 1)
-    pixels = list(img_L.getdata())
-    grid = [[float(v) for v in pixels[y * width:(y + 1) * width]] for y in range(height)]
+def image_to_dot_grid(image_bytes, cols=DOT_COLS):
+    """Downsample to a brightness grid for a halftone dot portrait.
 
-    lines = []
-    for y in range(height):
-        row_chars = []
-        for x in range(width):
-            old_val = grid[y][x]
-            idx = min(levels - 1, max(0, round(old_val / step)))
-            row_chars.append(ramp[idx])
-            err = old_val - idx * step
-            if x + 1 < width:
-                grid[y][x + 1] += err * 7 / 16
-            if y + 1 < height:
-                if x > 0:
-                    grid[y + 1][x - 1] += err * 3 / 16
-                grid[y + 1][x] += err * 5 / 16
-                if x + 1 < width:
-                    grid[y + 1][x + 1] += err * 1 / 16
-        lines.append("".join(row_chars))
-    return lines
-
-
-def image_to_ascii(image_bytes, width=ASCII_WIDTH):
+    Text-glyph ASCII art looks fine rendered at full size locally, but a
+    GitHub README shrinks the embedded image to fit its column width --
+    at that display size, small <text> glyphs are smaller than a pixel and
+    anti-alias into a flat blob, discarding all detail regardless of how
+    good the source dithering was. Dots don't have that failure mode:
+    a <circle> stays a crisp, correctly-sized shape at any scale, and its
+    radius encodes brightness continuously (256 levels) instead of being
+    bucketed into a handful of discrete character shapes.
+    """
     img = Image.open(io.BytesIO(image_bytes))
     img = autocrop_to_subject(img)
     img = flatten_to_white(img)
     img = img.convert("L")
     img = ImageOps.autocontrast(img, cutoff=1)  # stretch contrast so mid-tones separate
-    aspect_correction = 0.5  # terminal chars are taller than wide
-    height = max(1, int(img.height * (width / img.width) * aspect_correction))
+    rows = max(1, round(cols * (img.height / img.width)))  # dot cells are square, no font-aspect correction needed
     # sharpen at full resolution, before downscale -- brings out eye sockets,
     # nose bridge, mouth line as edges instead of letting LANCZOS blur them
     # into the surrounding tone before there are enough cells to represent them
     img = img.filter(ImageFilter.UnsharpMask(radius=4, percent=180, threshold=2))
-    img = img.resize((width, height), Image.LANCZOS)
-    return dither_to_ascii(img, ASCII_RAMP)
+    img = img.resize((cols, rows), Image.LANCZOS)
+    pixels = list(img.getdata())
+    grid = [pixels[y * cols:(y + 1) * cols] for y in range(rows)]
+    return grid
 
 
 # ---------- svg rendering ----------
@@ -212,30 +194,46 @@ def xml_escape(s):
     )
 
 
-def render_svg(ascii_lines, stats_lines, theme):
+def render_dots(grid, pad, fg_dark_dot):
+    """One <circle> per grid cell, radius scaled by darkness. A light gamma
+    curve (0.8) fattens mid-tone dots slightly so faces don't read as a
+    faint smudge -- pure linear brightness->radius under-represents
+    mid-grays at this dot density."""
+    rows = len(grid)
+    cols = len(grid[0]) if rows else 0
+    circles = []
+    for r in range(rows):
+        for c in range(cols):
+            brightness = grid[r][c]
+            darkness = (1 - brightness / 255) ** 0.8
+            radius = darkness * DOT_MAX_RADIUS
+            if radius < 0.35:
+                continue
+            cx = pad + c * DOT_CELL + DOT_CELL / 2
+            cy = pad + r * DOT_CELL + DOT_CELL / 2
+            circles.append(
+                f'<circle cx="{cx:.1f}" cy="{cy:.1f}" r="{radius:.2f}" fill="{fg_dark_dot}"/>'
+            )
+    dot_width = pad * 2 + cols * DOT_CELL
+    dot_height = pad * 2 + rows * DOT_CELL
+    return circles, dot_width, dot_height
+
+
+def render_svg(dot_grid, stats_lines, theme):
     is_dark = theme == "dark"
     bg = "#0d1117" if is_dark else "#ffffff"
     fg = "#c9d1d9" if is_dark else "#24292f"
     dim = "#6e7681" if is_dark else "#57606a"
 
-    # ASCII block runs at a much finer grid than plain text needs to stay
-    # readable at, so it gets its own (smaller) font metrics -- sharing one
-    # size with the stats column would force a choice between a tiny,
-    # cramped stats block or a blown-up, low-detail portrait.
-    ascii_font_size = 7
-    ascii_line_height = 8.6
-    ascii_char_width = 4.3
     pad = 24
-
     stats_font_size = 13
     stats_line_height = 16
 
-    ascii_col_width = max(len(l) for l in ascii_lines) * ascii_char_width
-    stats_x = pad + ascii_col_width + 40
+    dot_circles, dot_block_width, dot_block_height = render_dots(dot_grid, pad, ACCENT)
+    stats_x = dot_block_width + 40
 
-    ascii_block_height = pad + len(ascii_lines) * ascii_line_height
     stats_block_height = pad + len(stats_lines) * stats_line_height
-    height = max(ascii_block_height, stats_block_height) + 14
+    height = max(dot_block_height, stats_block_height) + 14
     width = int(stats_x + 560)
 
     svg = [
@@ -243,14 +241,7 @@ def render_svg(ascii_lines, stats_lines, theme):
         f'viewBox="0 0 {width} {height}" font-family="Fira Code, Consolas, Menlo, monospace">',
         f'<rect width="100%" height="100%" fill="{bg}" rx="10"/>',
     ]
-
-    y = pad
-    for line in ascii_lines:
-        svg.append(
-            f'<text x="{pad}" y="{y}" font-size="{ascii_font_size}" fill="{ACCENT}" '
-            f'xml:space="preserve">{xml_escape(line)}</text>'
-        )
-        y += ascii_line_height
+    svg.extend(dot_circles)
 
     y = pad
     for line in stats_lines:
@@ -284,7 +275,7 @@ def main():
         sys.exit("GH_TOKEN env var is required (a GitHub PAT with read:user + repo scopes).")
     user = fetch_user()
     image_bytes = load_source_image_bytes(user["avatar_url"])
-    ascii_lines = image_to_ascii(image_bytes)
+    dot_grid = image_to_dot_grid(image_bytes)
 
     total_repos, stars, top_langs = fetch_repo_stats()
     total_commits = fetch_total_commits(user["created_at"])
@@ -314,7 +305,7 @@ def main():
     ]
 
     for theme in ("light", "dark"):
-        svg = render_svg(ascii_lines, stats_lines, theme)
+        svg = render_svg(dot_grid, stats_lines, theme)
         out_path = f"profile_card_{theme}.svg"
         with open(out_path, "w") as f:
             f.write(svg)

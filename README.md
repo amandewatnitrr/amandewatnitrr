@@ -6,6 +6,13 @@
 
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/profile_card_dark.svg">
+    <img alt="terminal-style profile card" src="https://raw.githubusercontent.com/amandewatnitrr/amandewatnitrr/main/profile_card_light.svg">
+  </picture>
+</p>
+
 ## <p align="center"><h4 align="center"><samp> An IoT Developer, An Open Source Contributor, Cloud Architecture ☁  & A Competitive Programmer </samp></h4></p>
 
 <div>

@@ -1,7 +1,7 @@
 # Hey Everyone! I'm [Aman Kumar Dewangan a.k.a AkD!](https://github.com/amandewatnitrr)
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=IoT+Developer+%7C+Cloud+Architect;Open+Source+Contributor;Competitive+Programmer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=IoT+Developer+%7C+Cybersec+Enthusiast;Open+Source+Contributor;" alt="Typing SVG" />
 </p>
 
 ![](https://github.com/amandewatnitrr/amandewatnitrr/blob/main/header_.png)
